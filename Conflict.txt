@@ -1,0 +1,22 @@
+commit 03144b7319d667bfb4d937028343fe6277fd56f7 (HEAD -> master)
+Merge: 902018e 20ff26b
+Author: Jonathan Noranbrock <jono5589@Colorado.edu>
+Date:   Thu Sep 27 10:56:33 2018 -0600
+
+    Resolved merge conflict
+
+commit 902018e13e9c004ba221e6875bb3e173a2851bdd
+Author: Jonathan Noranbrock <jono5589@Colorado.edu>
+Date:   Thu Sep 27 10:50:50 2018 -0600
+
+    Intentional conflict v.2
+
+commit 20ff26bb5eccbfc613de6e7d34c68a229a68dd1e (origin/master)
+Author: Joshua Khoo <joshua.khoo@colorado.edu>
+Date:   Thu Sep 27 10:50:32 2018 -0600
+
+    Attempt 2 to create merge conflict
+
+commit bb6306a2ea505a652ea892ab9b914854ca0c4547
+Author: Jonathan Noranbrock <jono5589@Colorado.edu>
+Date:   Thu Sep 27 10:45:08 2018 -0600
